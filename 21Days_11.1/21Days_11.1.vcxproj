@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="animal.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="21Days_11.1.cpp" />
